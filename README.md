@@ -1,1 +1,12 @@
-# cliffpha.github.io
+**# Cliff's Homepage**
+##### 4th year [ECE]([url](https://www.ece.uw.edu/)) student at the University of Washington
+##### Concentration in Embedded Systems
+
+
+
+### Areas of Interest
+| Concentration | Experience |
+|---------:|------------|
+| Embedded Systems   |  3+ years   |
+|  Digital Circuit Design    | 2+ years   |
+|  Signal Processing     |    2+ years    |
