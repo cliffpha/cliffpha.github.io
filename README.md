@@ -1,5 +1,5 @@
 **Cliff's Homepage**
-##### 4th year [ECE]([url](https://www.ece.uw.edu/)) student at the University of Washington
+##### 4th year [ECE](https://www.ece.uw.edu/) student at the University of Washington
 ##### Concentration in Embedded Systems
 
 ##### Click [here](about.html) to see my about page!
