@@ -8,6 +8,7 @@
 ![University of Washington](uw_trees.jpg)
 
 ### Areas of Interest
+
 | Concentration | Experience |
 |---------:|------------|
 | Embedded Systems   |  3+ years   |
